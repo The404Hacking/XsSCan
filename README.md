@@ -1,19 +1,19 @@
 # XsSCan - Web Application XSS Scanner
 Powered By [The404Hacking](https://Telegram.me/The404Hacking) Team
 
-Author: Mr.Hidden
+Author: [MR.HiDDEN](https://t.me/sir4m1R) - [Mahsa.Hacking](https://t.me/MahsaHacking)
 
-Telegram: @MrHiddenRoBot
+Telegram: [@MrHiddenRoBot](https://Telegram.me/MrHiddenRoBot)
 
 # Installation: 
 Type the following in the terminal.
 
-git clone https://github.com/The404Hacking/XsSCan /opt/XsSCan
+git clone [https://github.com/The404Hacking/XsSCan](https://github.com/The404Hacking/XsSCan) /opt/XsSCan
 
 The tool works on Python 2.7 and you should have mechanize installed. If mechanize is not installed, type "pip install mechanize" in the terminal.
 
 # Usage: 
-python XsSCan.py website.com (Do not write www.website.com OR http://www.website.com)
+python XsSCan.py [website.com](https://t.me/The404Hacking) (Do not write www.website.com OR http://www.website.com)
 
 # Payloads
 If you have found a XSS vulnerability, you can try the following payloads.
@@ -36,6 +36,6 @@ With this tool, Cross Site Scripting vulnerabilities have been found in the webs
 Mail me if you encounter any errors [Mail The404Hacking](mailto:The404Hacking.Team@Gmail.Com). You can also post your problems on the website. I'll try my best to respond as soon as possible.
 
 
-[Mr.Hidden](https://telegram.me/MrHiddenRoBot)
+[MR.HiDDEN](https://telegram.me/Sir4m1R)
 
-[MahsaHacking](https://telegram.me/MahsaHacking)
+[Mahsa.Hacking](https://telegram.me/MahsaHacking)
