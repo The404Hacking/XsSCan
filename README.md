@@ -1,7 +1,7 @@
 # XsSCan - Web Application XSS Scanner
 Powered By [The404Hacking](https://Telegram.me/The404Hacking) Team
 
-Author: [MR.HiDDEN](https://t.me/sir4m1R) - [Mahsa.Hacking](https://t.me/MahsaHacking)
+Author: [Sir.4m1R](https://t.me/sir4m1R) - [Mahsa.Hacking](https://t.me/MahsaHacking)
 
 Telegram: [@MrHiddenRoBot](https://Telegram.me/MrHiddenRoBot)
 
@@ -36,6 +36,6 @@ With this tool, Cross Site Scripting vulnerabilities have been found in the webs
 Mail me if you encounter any errors [Mail The404Hacking](mailto:The404Hacking.Team@Gmail.Com). You can also post your problems on the website. I'll try my best to respond as soon as possible.
 
 
-[MR.HiDDEN](https://telegram.me/Sir4m1R)
+[Sir.4m1R](https://telegram.me/Sir4m1R)
 
 [Mahsa.Hacking](https://telegram.me/MahsaHacking)
