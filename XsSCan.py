@@ -45,7 +45,11 @@ Telegram Channel: @The404Hacking
 Bot Support: @The404Hacking_Bot
 Email: The404Hacking.Team@Gmail.Com
 GitHub: https://github.com/The404Hacking/XsSCan
-Usage: XsSCan.py website.com (Not www.website.com OR http://www.website.com)
+""" + color.END
+print color.BOLD + color.YELLOW + """
+Usage: XsSCan.py -u website.com (Not www.website.com OR http://www.website.com)
+""" + color.END
+print color.BOLD + color.WHITE + """
 Comprehensive Scan: python XsSCan.py -u website.com -e
 Verbose logging: python XsSCan.py -u website.com -v
 Cookies: python XsSCan.py -u website.complex -c name=val name=val
