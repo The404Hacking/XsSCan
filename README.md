@@ -5,6 +5,8 @@ Author: [Sir.4m1R](https://t.me/sir4m1R)
 
 Telegram: [@MrHiddenRoBot](https://Telegram.me/MrHiddenRoBot)
 
+![Screenshot](Screenshot.png?raw=ture "Screenshot")
+
 # Installation: 
 Type the following in the terminal.
 
