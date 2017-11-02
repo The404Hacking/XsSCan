@@ -1,8 +1,8 @@
-#Coded By Mr.Hidden (@MrHiddenRoBot)
+#Coded By Sir.4m1R (@Sir4m1R)
 #Telegram Channel: @The404Hacking
 #Bot Support: @The404Hacking_Bot
 #Email: The404Hacking.Team@Gmail.Com
-#GitHub: https://GitHub.Com/The404Hacking
+#GitHub: https://github.com/The404Hacking/XsSCan
 
 import mechanize
 import sys
@@ -40,11 +40,11 @@ class color:
 
 print color.BOLD + color.RED + """
 XsSCan - Find XSS Made Easier
-Author: Mr.Hidden (Telegram: @MrHiddenRoBot)
+Author: Sir.4m1R (Telegram: @Sir4m1R)
 Telegram Channel: @The404Hacking
 Bot Support: @The404Hacking_Bot
 Email: The404Hacking.Team@Gmail.Com
-GitHub: https://GitHub.Com/The404Hacking
+GitHub: https://github.com/The404Hacking/XsSCan
 Usage: XsSCan.py website.com (Not www.website.com OR http://www.website.com)
 Comprehensive Scan: python XsSCan.py -u website.com -e
 Verbose logging: python XsSCan.py -u website.com -v
