@@ -48,12 +48,11 @@ GitHub: https://github.com/The404Hacking/XsSCan
 """ + color.END
 print color.BOLD + color.YELLOW + """
 Usage: XsSCan.py -u website.com (Not www.website.com OR http://www.website.com)
-""" + color.END
-print color.BOLD + color.WHITE + """
 Comprehensive Scan: python XsSCan.py -u website.com -e
 Verbose logging: python XsSCan.py -u website.com -v
 Cookies: python XsSCan.py -u website.complex -c name=val name=val
-
+""" + color.END
+print color.BOLD + color.GREEN + """
 Description: XsSCan is a python tool for finding Cross Site Scripting
 vulnerabilities in websites. This tool is the first of its kind.
 Instead of just checking one page as most of the tools do, this tool
