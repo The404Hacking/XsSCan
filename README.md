@@ -13,7 +13,7 @@ git clone [https://github.com/The404Hacking/XsSCan](https://github.com/The404Hac
 The tool works on Python 2.7 and you should have mechanize installed. If mechanize is not installed, type "pip install mechanize" in the terminal.
 
 # Usage: 
-python XsSCan.py [website.com](https://t.me/The404Hacking) (Do not write www.website.com OR http://www.website.com)
+python XsSCan.py -u [website.com](https://t.me/The404Hacking) (Do not write www.website.com OR http://www.website.com)
 
 # Payloads
 If you have found a XSS vulnerability, you can try the following payloads.
