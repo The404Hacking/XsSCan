@@ -1,0 +1,2 @@
+<script>confirm(1)</script>
+<svg onload=confirm(1)>
