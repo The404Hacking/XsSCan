@@ -54,3 +54,5 @@ Mail me if you encounter any errors [Mail The404Hacking](mailto:The404Hacking.Te
 [Instagram](https://instagram.com/The404Hacking) - [GitHub](https://github.com/The404Hacking)
 
 [YouTube](http://yon.ir/youtube404) - [Aparat](http://www.aparat.com/The404Hacking)
+
+[Mail](mailto:The404Hacking.Team@Gmail.Com)
