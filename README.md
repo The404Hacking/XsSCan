@@ -1,8 +1,7 @@
 # XsSCan - Web Application XSS Scanner
 Powered By [The404Hacking](https://Telegram.me/The404Hacking) Team
 
-Author: [Sir.4m1R](https://t.me/sir4m1R) - [Mahsa.Hacking](https://t.me/MahsaHacking)
-
+Author: [Sir.4m1R](https://t.me/sir4m1R)
 Telegram: [@MrHiddenRoBot](https://Telegram.me/MrHiddenRoBot)
 
 # Installation: 
@@ -35,7 +34,20 @@ With this tool, Cross Site Scripting vulnerabilities have been found in the webs
 # NOTE: 
 Mail me if you encounter any errors [Mail The404Hacking](mailto:The404Hacking.Team@Gmail.Com). You can also post your problems on the website. I'll try my best to respond as soon as possible.
 
-
 [Sir.4m1R](https://telegram.me/Sir4m1R)
 
-[Mahsa.Hacking](https://telegram.me/MahsaHacking)
+
+## Download and Clone
+> Download: [https://github.com/The404Hacking/XsSCan/archive/master.zip](https://github.com/The404Hacking/XsSCan/archive/master.zip)
+
+> Clone: git clone [https://github.com/The404Hacking/XsSCan](https://github.com/XsSCan/MacPhish.git)
+
+## The404Hacking | Digital UnderGround Team
+[The404Hacking](https://T.me/The404Hacking)
+
+## Follow us !
+[The404Hacking](https://T.me/The404Hacking) - [The404Cracking](https://T.me/The404Cracking)
+
+[Instagram](https://instagram.com/The404Hacking) - [GitHub](https://github.com/The404Hacking)
+
+[YouTube](http://yon.ir/youtube404) - [Aparat](http://www.aparat.com/The404Hacking)
