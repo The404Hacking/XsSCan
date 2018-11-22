@@ -41,9 +41,9 @@ Mail me if you encounter any errors [Mail The404Hacking](mailto:The404Hacking.Te
 
 
 ## Download and Clone
-> Download: [https://github.com/The404Hacking/XsSCan/archive/master.zip](https://github.com/The404Hacking/XsSCan/archive/master.zip)
+> Download: [XsSCan-master.zip](https://github.com/The404Hacking/XsSCan/archive/master.zip)
 
-> Clone: git clone [https://github.com/The404Hacking/XsSCan](https://github.com/XsSCan/MacPhish.git)
+> Clone: git clone [https://github.com/The404Hacking/XsSCan.git](https://github.com/The404Hacking/XsSCan.git)
 
 ## The404Hacking | Digital UnderGround Team
 [The404Hacking](https://T.me/The404Hacking)
